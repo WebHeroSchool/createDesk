@@ -11,6 +11,7 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
+    padding-top: 20px;
 }
 
 .logo, .menu {
@@ -26,7 +27,6 @@ body {
 .menu {
     display: flex;
     align-items: center;
-    border: dashed 1px red;
 }
 
 .menu__item {
