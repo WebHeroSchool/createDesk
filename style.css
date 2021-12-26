@@ -11,6 +11,7 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
+    padding-top: 20px;
 }
 
 .logo, .menu {
@@ -18,8 +19,9 @@ body {
 }
 
 .logo {
-    padding: 40px 0;
-    margin-right: 63%;
+    width: 190px;
+    height: 35px;
+    background: url('img/logo.svg');
 }
 
 .menu {
